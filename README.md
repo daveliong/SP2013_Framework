@@ -4,8 +4,8 @@ SharePoint Framework dynamic link library solution that contains the SharePoint 
 It contains the following re-useable helper class for operations such as:
 - Logging SharePoint to ULS;
 - SharePoint functions such as read, delete and add an item to a list & document library;
-- Create a new document site collection, library and list;
+- Create a new site collection, document library and list;
 - Upload documents to a library;
 - Convert a document into a PDF file in the document library;
-- Create a custom column; and
+- Create a custom site column; and
 - Activate/deactivate a SharePoint feature.
